@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<?validation-md5-digest 87fd8c01f7aa96047ee60eef4b7ea4c2?>
+<?validation-md5-digest b3b10a29c98386f473cebea1b84d0980?>
 <worksheet version="3.0.3" xmlns="http://schemas.mathsoft.com/worksheet30" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ws="http://schemas.mathsoft.com/worksheet30" xmlns:ml="http://schemas.mathsoft.com/math30" xmlns:u="http://schemas.mathsoft.com/units10" xmlns:p="http://schemas.mathsoft.com/provenance10" xmlns:prd="http://schemas.mathsoft.com/point-release-data">
 	<pointReleaseData/>
 	<metadata>
@@ -13,9 +13,9 @@
 			<revisedBy>BSN</revisedBy>
 		</userData>
 		<identityInfo>
-			<revision>34</revision>
+			<revision>38</revision>
 			<documentID>C6653583-9CB1-4735-9054-EC5D1A45403B</documentID>
-			<versionID>304C42C2-3D84-4199-B6E4-6FEB9FBFBAA0</versionID>
+			<versionID>9275E9A7-45DC-480D-A87D-23374D5A42BB</versionID>
 			<parentVersionID>00000000-0000-0000-0000-000000000000</parentVersionID>
 			<branchID>00000000-0000-0000-0000-000000000000</branchID>
 		</identityInfo>
@@ -127,12 +127,12 @@
 				<p style="Normal" margin-left="inherit" margin-right="inherit" text-indent="inherit" text-align="inherit" list-style-type="inherit" tabs="inherit">1 - Функция синусоидальной волны:</p>
 			</text>
 		</region>
-		<region region-id="31" left="18" top="66.75" width="300.75" height="10.5" align-x="17.25" align-y="66" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
+		<region region-id="31" left="18" top="66.75" width="303" height="10.5" align-x="17.25" align-y="66" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
 			<reference>
 				<originRef doc-id="D0B42C71-662F-42CD-B8AE-A394916E53CA" version-id="A299A267-8761-4086-8554-1590D9966C80" branch-id="00000000-0000-0000-0000-000000000000" revision-num="15" is-modified="true" region-id="0" href="D:\github\mathcad_example_book\pages\sine wave.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 					<hash/>
 				</originRef>
-				<parentRef doc-id="C6653583-9CB1-4735-9054-EC5D1A45403B" version-id="4CB7B98B-FDF5-423A-9EEF-A1CAE2D7C48F" branch-id="00000000-0000-0000-0000-000000000000" revision-num="275565852" is-modified="true" region-id="11" href="I:\mathcad\index.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+				<parentRef doc-id="C6653583-9CB1-4735-9054-EC5D1A45403B" version-id="4CB7B98B-FDF5-423A-9EEF-A1CAE2D7C48F" branch-id="00000000-0000-0000-0000-000000000000" revision-num="254931996" is-modified="true" region-id="11" href="I:\mathcad\index.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 					<hash>3a64b580071e5fb714216608ae02ff5e</hash>
 				</parentRef>
 				<comment xmlns="http://schemas.mathsoft.com/provenance10"/>
@@ -146,12 +146,12 @@
 				<p style="Normal" margin-left="inherit" margin-right="inherit" text-indent="inherit" text-align="inherit" list-style-type="inherit" tabs="inherit">2 - Генератор шума:</p>
 			</text>
 		</region>
-		<region region-id="33" left="18" top="120.75" width="282.75" height="10.5" align-x="17.25" align-y="120" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
+		<region region-id="33" left="18" top="120.75" width="285" height="10.5" align-x="17.25" align-y="120" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
 			<reference>
 				<originRef doc-id="FAB4EF2B-B975-4787-9C30-58E00FA4BCDF" version-id="3C3EFE50-BD4F-41DF-9671-EE44876F6944" branch-id="00000000-0000-0000-0000-000000000000" revision-num="10" is-modified="true" region-id="0" href="D:\github\mathcad_example_book\pages\noise.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 					<hash/>
 				</originRef>
-				<parentRef doc-id="C6653583-9CB1-4735-9054-EC5D1A45403B" version-id="E5BD83A0-A71D-423F-8C56-96296250F1B8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="275609540" is-modified="true" region-id="16" href="I:\mathcad\index.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+				<parentRef doc-id="C6653583-9CB1-4735-9054-EC5D1A45403B" version-id="E5BD83A0-A71D-423F-8C56-96296250F1B8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="387759748" is-modified="true" region-id="16" href="I:\mathcad\index.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 					<hash>3a64b580071e5fb714216608ae02ff5e</hash>
 				</parentRef>
 				<comment xmlns="http://schemas.mathsoft.com/provenance10"/>
@@ -165,12 +165,12 @@
 				<p style="Normal" margin-left="inherit" margin-right="inherit" text-indent="inherit" text-align="inherit" list-style-type="inherit" tabs="inherit">3 - Синусоидальный сигнал с помехой:</p>
 			</text>
 		</region>
-		<region region-id="35" left="18" top="174.75" width="300.75" height="10.5" align-x="17.25" align-y="174" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
+		<region region-id="35" left="18" top="174.75" width="303.75" height="10.5" align-x="17.25" align-y="174" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
 			<reference>
 				<originRef doc-id="49DE9D20-95A2-4A77-9CF9-4B2889AE5835" version-id="2A45D322-A308-4C2B-AE42-AA5D4B892F70" branch-id="00000000-0000-0000-0000-000000000000" revision-num="10" is-modified="true" region-id="0" href="D:\github\mathcad_example_book\pages\sine noise.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 					<hash/>
 				</originRef>
-				<parentRef doc-id="C6653583-9CB1-4735-9054-EC5D1A45403B" version-id="144388EE-D6B4-40E6-ADD8-CAE657901A54" branch-id="00000000-0000-0000-0000-000000000000" revision-num="275610580" is-modified="true" region-id="28" href="I:\mathcad\index.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+				<parentRef doc-id="C6653583-9CB1-4735-9054-EC5D1A45403B" version-id="144388EE-D6B4-40E6-ADD8-CAE657901A54" branch-id="00000000-0000-0000-0000-000000000000" revision-num="387759588" is-modified="true" region-id="28" href="I:\mathcad\index.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 					<hash>3a64b580071e5fb714216608ae02ff5e</hash>
 				</parentRef>
 				<comment xmlns="http://schemas.mathsoft.com/provenance10"/>
@@ -184,12 +184,12 @@
 				<p style="Normal" margin-left="inherit" margin-right="inherit" text-indent="inherit" text-align="inherit" list-style-type="inherit" tabs="inherit">4 - Дискретизация сигнала:</p>
 			</text>
 		</region>
-		<region region-id="41" left="18" top="228.75" width="323.25" height="10.5" align-x="17.25" align-y="228" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
+		<region region-id="41" left="18" top="228.75" width="325.5" height="10.5" align-x="17.25" align-y="228" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
 			<reference>
 				<originRef doc-id="248AAEAC-FC6B-4E55-A26F-A4C4C3BB236F" version-id="8BC22AC8-DEA8-404C-B7CC-D9B3AA1DDA64" branch-id="00000000-0000-0000-0000-000000000000" revision-num="23" is-modified="true" region-id="0" href="D:\github\mathcad_example_book\pages\sampling signal.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 					<hash/>
 				</originRef>
-				<parentRef doc-id="C6653583-9CB1-4735-9054-EC5D1A45403B" version-id="16B9E1DB-4A40-4496-A2E6-063CC1A22EFB" branch-id="00000000-0000-0000-0000-000000000000" revision-num="275610700" is-modified="true" region-id="41" href="C:\Users\BSN\Desktop\mathcad\index.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+				<parentRef doc-id="C6653583-9CB1-4735-9054-EC5D1A45403B" version-id="16B9E1DB-4A40-4496-A2E6-063CC1A22EFB" branch-id="00000000-0000-0000-0000-000000000000" revision-num="387760028" is-modified="true" region-id="41" href="C:\Users\BSN\Desktop\mathcad\index.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 					<hash>69c82afb941446a6db49476e2bd176d8</hash>
 				</parentRef>
 				<comment xmlns="http://schemas.mathsoft.com/provenance10"/>
@@ -198,17 +198,17 @@
 			<link href=".\pages\sampling signal.xmcd"/>
 			<rendering item-idref="4"/>
 		</region>
-		<region region-id="47" left="18" top="260.25" width="133.5" height="12" align-x="19.5" align-y="270" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
+		<region region-id="47" left="18" top="260.25" width="129.75" height="12" align-x="19.5" align-y="270" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
 			<text use-page-width="false" push-down="false" lock-width="false">
-				<p style="Normal" margin-left="inherit" margin-right="inherit" text-indent="inherit" text-align="inherit" list-style-type="inherit" tabs="inherit">5 - Скользящее устреднение:</p>
+				<p style="Normal" margin-left="inherit" margin-right="inherit" text-indent="inherit" text-align="inherit" list-style-type="inherit" tabs="inherit">5 - Скользящее усреднение:</p>
 			</text>
 		</region>
-		<region region-id="49" left="18" top="282.75" width="324" height="10.5" align-x="17.25" align-y="282" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
+		<region region-id="49" left="18" top="282.75" width="327" height="10.5" align-x="17.25" align-y="282" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
 			<reference>
 				<originRef doc-id="AE373494-1314-49BD-944E-0F8E22558657" version-id="DDD8E42C-B394-47B4-A915-1B0A04775E7D" branch-id="00000000-0000-0000-0000-000000000000" revision-num="33" is-modified="true" region-id="0" href="D:\github\mathcad_example_book\pages\moving average.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 					<hash/>
 				</originRef>
-				<parentRef doc-id="C6653583-9CB1-4735-9054-EC5D1A45403B" version-id="CF0C45B4-4646-4210-95B7-19E5359205B7" branch-id="00000000-0000-0000-0000-000000000000" revision-num="275611060" is-modified="true" region-id="49" href="I:\mathcad\index.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+				<parentRef doc-id="C6653583-9CB1-4735-9054-EC5D1A45403B" version-id="CF0C45B4-4646-4210-95B7-19E5359205B7" branch-id="00000000-0000-0000-0000-000000000000" revision-num="387760308" is-modified="true" region-id="49" href="I:\mathcad\index.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 					<hash>842143b351e6dd14af5713d959a33cb0</hash>
 				</parentRef>
 				<comment xmlns="http://schemas.mathsoft.com/provenance10"/>
@@ -222,12 +222,12 @@
 				<p style="Normal" margin-left="inherit" margin-right="inherit" text-indent="inherit" text-align="inherit" list-style-type="inherit" tabs="inherit">6 - FFT:</p>
 			</text>
 		</region>
-		<region region-id="55" left="18" top="336.75" width="278.25" height="10.5" align-x="17.25" align-y="336" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
+		<region region-id="55" left="18" top="336.75" width="279.75" height="10.5" align-x="17.25" align-y="336" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
 			<reference>
 				<originRef doc-id="A9FEDAE9-FF43-40E8-9FFA-8113C39A3A2B" version-id="5F39FDA5-8EEB-4208-B9DB-1923E82EEA56" branch-id="00000000-0000-0000-0000-000000000000" revision-num="28" is-modified="true" region-id="0" href="D:\github\mathcad_example_book\pages\FFT.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 					<hash/>
 				</originRef>
-				<parentRef doc-id="C6653583-9CB1-4735-9054-EC5D1A45403B" version-id="28E5B100-A385-4283-A5D8-0E65D5027587" branch-id="00000000-0000-0000-0000-000000000000" revision-num="275611180" is-modified="true" region-id="53" href="I:\mathcad\index.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+				<parentRef doc-id="C6653583-9CB1-4735-9054-EC5D1A45403B" version-id="28E5B100-A385-4283-A5D8-0E65D5027587" branch-id="00000000-0000-0000-0000-000000000000" revision-num="387760388" is-modified="true" region-id="53" href="I:\mathcad\index.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 					<hash>842143b351e6dd14af5713d959a33cb0</hash>
 				</parentRef>
 				<comment xmlns="http://schemas.mathsoft.com/provenance10"/>
@@ -241,12 +241,12 @@
 				<p style="Normal" margin-left="inherit" margin-right="inherit" text-indent="inherit" text-align="inherit" list-style-type="inherit" tabs="inherit">7 - Представление сигнала рядом Фурье:</p>
 			</text>
 		</region>
-		<region region-id="61" left="18" top="390.75" width="393.75" height="10.5" align-x="17.25" align-y="390" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
+		<region region-id="61" left="18" top="390.75" width="397.5" height="10.5" align-x="17.25" align-y="390" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
 			<reference>
 				<originRef doc-id="4880A85F-D802-4E59-942A-5D79C1689953" version-id="C05385E2-E948-4FC6-98C3-C5BCF90AA1B6" branch-id="00000000-0000-0000-0000-000000000000" revision-num="1" is-modified="true" region-id="0" href="D:\github\mathcad_example_book\pages\signal representation near Fourier.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 					<hash/>
 				</originRef>
-				<parentRef doc-id="C6653583-9CB1-4735-9054-EC5D1A45403B" version-id="B1370CA1-46F6-44D5-B848-11BC578B3BA1" branch-id="00000000-0000-0000-0000-000000000000" revision-num="275611140" is-modified="true" region-id="58" href="I:\mathcad\index.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+				<parentRef doc-id="C6653583-9CB1-4735-9054-EC5D1A45403B" version-id="B1370CA1-46F6-44D5-B848-11BC578B3BA1" branch-id="00000000-0000-0000-0000-000000000000" revision-num="387760828" is-modified="true" region-id="58" href="I:\mathcad\index.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 					<hash>842143b351e6dd14af5713d959a33cb0</hash>
 				</parentRef>
 				<comment xmlns="http://schemas.mathsoft.com/provenance10"/>
@@ -260,12 +260,12 @@
 				<p style="Normal" margin-left="inherit" margin-right="inherit" text-indent="inherit" text-align="inherit" list-style-type="inherit" tabs="inherit">8 - Представление сигналов:</p>
 			</text>
 		</region>
-		<region region-id="68" left="18" top="444.75" width="288.75" height="10.5" align-x="17.25" align-y="444" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
+		<region region-id="68" left="18" top="444.75" width="291.75" height="10.5" align-x="17.25" align-y="444" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
 			<reference>
 				<originRef doc-id="F4F0B629-6E05-4E8A-9789-8418A676570D" version-id="95C84AC4-7347-4D9D-9A8D-50C5F60A0807" branch-id="00000000-0000-0000-0000-000000000000" revision-num="3" is-modified="true" region-id="0" href="D:\github\mathcad_example_book\pages\signals.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 					<hash/>
 				</originRef>
-				<parentRef doc-id="C6653583-9CB1-4735-9054-EC5D1A45403B" version-id="8810FC82-F225-4A93-A893-ED3C1DD12DC9" branch-id="00000000-0000-0000-0000-000000000000" revision-num="275611220" is-modified="true" region-id="65" href="I:\mathcad\index.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+				<parentRef doc-id="C6653583-9CB1-4735-9054-EC5D1A45403B" version-id="8810FC82-F225-4A93-A893-ED3C1DD12DC9" branch-id="00000000-0000-0000-0000-000000000000" revision-num="387761108" is-modified="true" region-id="65" href="I:\mathcad\index.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 					<hash>842143b351e6dd14af5713d959a33cb0</hash>
 				</parentRef>
 				<comment xmlns="http://schemas.mathsoft.com/provenance10"/>
@@ -279,12 +279,12 @@
 				<p style="Normal" margin-left="inherit" margin-right="inherit" text-indent="inherit" text-align="inherit" list-style-type="inherit" tabs="inherit">9 - Отсчеты для представления синусоидального сигнала ШИМ:</p>
 			</text>
 		</region>
-		<region region-id="75" left="18" top="498.75" width="326.25" height="10.5" align-x="17.25" align-y="498" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
+		<region region-id="75" left="18" top="498.75" width="328.5" height="10.5" align-x="17.25" align-y="498" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
 			<reference>
 				<originRef doc-id="DFFC70C3-16E9-4AAF-BBBC-3D3BD88EE0C2" version-id="ED0D4732-9B15-42BB-8830-6E2F5B682D2C" branch-id="00000000-0000-0000-0000-000000000000" revision-num="21" is-modified="true" region-id="0" href="D:\github\mathcad_example_book\pages\sine pwm points.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 					<hash/>
 				</originRef>
-				<parentRef doc-id="C6653583-9CB1-4735-9054-EC5D1A45403B" version-id="5D2D3E52-DB07-4D8A-A21B-28DC86B79E09" branch-id="00000000-0000-0000-0000-000000000000" revision-num="275611820" is-modified="true" region-id="71" href="D:\mathcad\index.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+				<parentRef doc-id="C6653583-9CB1-4735-9054-EC5D1A45403B" version-id="5D2D3E52-DB07-4D8A-A21B-28DC86B79E09" branch-id="00000000-0000-0000-0000-000000000000" revision-num="387761188" is-modified="true" region-id="71" href="D:\mathcad\index.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 					<hash>2831737578ce03229f687de399369471</hash>
 				</parentRef>
 				<comment xmlns="http://schemas.mathsoft.com/provenance10"/>
@@ -298,12 +298,12 @@
 				<p style="Normal" margin-left="inherit" margin-right="inherit" text-indent="inherit" text-align="inherit" list-style-type="inherit" tabs="inherit">10 - Дискретное преобразование Фурье: </p>
 			</text>
 		</region>
-		<region region-id="85" left="18" top="552.75" width="280.5" height="10.5" align-x="17.25" align-y="552" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
+		<region region-id="85" left="18" top="552.75" width="281.25" height="10.5" align-x="17.25" align-y="552" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
 			<reference>
-				<originRef doc-id="18BB0D2E-9806-4AE7-9CE2-489D74CAE1E5" version-id="8861C97B-22DB-48D8-9D65-2D0F8DBE5E8E" branch-id="00000000-0000-0000-0000-000000000000" revision-num="34" is-modified="true" region-id="0" href="D:\github\mathcad_example_book\pages\DFT.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+				<originRef doc-id="18BB0D2E-9806-4AE7-9CE2-489D74CAE1E5" version-id="4ACB1714-D32E-4D1C-A981-6A8FEDDDE2E5" branch-id="00000000-0000-0000-0000-000000000000" revision-num="35" is-modified="true" region-id="0" href="D:\github\mathcad_example_book\pages\DFT.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 					<hash/>
 				</originRef>
-				<parentRef doc-id="C6653583-9CB1-4735-9054-EC5D1A45403B" version-id="E4DFDC0B-CB32-41BC-B284-6BC8649A040A" branch-id="00000000-0000-0000-0000-000000000000" revision-num="32" is-modified="true" region-id="78" href="D:\github\mathcad_example_book\index.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+				<parentRef doc-id="C6653583-9CB1-4735-9054-EC5D1A45403B" version-id="E4DFDC0B-CB32-41BC-B284-6BC8649A040A" branch-id="00000000-0000-0000-0000-000000000000" revision-num="387761588" is-modified="true" region-id="78" href="D:\github\mathcad_example_book\index.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 					<hash>6f1a251ceba8e682c43e5835d5bace6e</hash>
 				</parentRef>
 				<comment xmlns="http://schemas.mathsoft.com/provenance10"/>
